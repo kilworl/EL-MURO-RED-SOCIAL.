@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50400098569",
+    "project_id": "themuro",
+    "storage_bucket": "themuro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50400098569:android:f9b715138b98eb65fcfbd8",
+        "android_client_info": {
+          "package_name": "com.example.red_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50400098569-k2suidr11p3f86ockqs981otaj1ioh2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByburYWATmjMjgECG80mKcOwwpaKMZ8oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50400098569-k2suidr11p3f86ockqs981otaj1ioh2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

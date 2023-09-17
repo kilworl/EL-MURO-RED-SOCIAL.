@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>50400098569-a0kte329e1a91muj5uqo3b4rss79jgnq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.50400098569-a0kte329e1a91muj5uqo3b4rss79jgnq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBpI-17dtGAUSr5cOkfSwDFx8gGPYIHX44</string>
+	<key>GCM_SENDER_ID</key>
+	<string>50400098569</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.redApp</string>
+	<key>PROJECT_ID</key>
+	<string>themuro</string>
+	<key>STORAGE_BUCKET</key>
+	<string>themuro.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:50400098569:ios:80750d13daa31130fcfbd8</string>
+</dict>
+</plist>
